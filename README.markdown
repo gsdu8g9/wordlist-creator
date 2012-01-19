@@ -1,26 +1,26 @@
-=== Name ===
+## Name
 
 Contributors: lukapusic
 Author: Luka Pusic <pusic93@gmail.com>
 Author URI: http://360percents.com
 
-== Description ==
+### Description
 
-== System requirements ==
+### System requirements
 -unix like system
 -wget
 
-== Instructions ==
+### Instructions
 -make the script executable ```chmod +x ./wordlist.sh```
 -run the script with two arguments: <url> and <output file>
 
-== Changelog ==
+### Changelog
 -
 
-== Known issues ==
+### Known issues
 -
 
-== License ==
+### License
 * ----------------------------------------------------------------------------
 * "THE BEER-WARE LICENSE" (Revision 42):
 * <pusic93@gmail.com> wrote this file. As long as you retain this notice you

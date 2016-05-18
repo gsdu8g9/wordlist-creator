@@ -1,11 +1,3 @@
-## Name
-
-* Contributors: lukapusic
-* Author: Luka Pusic <pusic93@gmail.com>
-* Author URI: http://360percents.com
-
-### Description
-
 ### System requirements
 - unix like system
 - wget
